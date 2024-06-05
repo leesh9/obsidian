@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "1974db95436e1aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eff413fd597da9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4c0b5fc6dacb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "1.Project/쌍용교육센터/Month5/week4/05-24.md",
+=======
+                "file": "1.Project/쌍용교육센터/Month5/week5/05-31.md",
+>>>>>>> 6f4e3a5 (update)
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "8921c56ae33d3e8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.setting/Excalidraw/Drawing 2024-05-30 14.55.58.excalidraw.md"
+              }
+            }
+          },
+          {
+=======
+>>>>>>> 6f4e3a5 (update)
+            "id": "960b76b14388aca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "1.Project/쌍용교육센터/Month5/week5/05-31.md",
+=======
+                "file": "1.Project/쌍용교육센터/Month6/week1/06-05.md",
+>>>>>>> 6f4e3a5 (update)
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+<<<<<<< HEAD
+        ]
+=======
+        ],
+        "currentTab": 1
+>>>>>>> 6f4e3a5 (update)
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2da11b1cc19fd07",
+    "type": "split",
+    "children": [
+      {
+        "id": "55c3a8de70a0f73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6d204797aa32c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30512a2eab3a1265",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+<<<<<<< HEAD
+                "query": "tag:#excalidraw",
+=======
+                "query": "",
+>>>>>>> 6f4e3a5 (update)
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e7bef811223e57b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f56b5fcf9c024a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ce523241821f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96735571dcb8d44d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+<<<<<<< HEAD
+                "file": "1.Project/쌍용교육센터/Month5/week4/05-24.md",
+=======
+                "file": "1.Project/쌍용교육센터/Month6/week1/06-05.md",
+>>>>>>> 6f4e3a5 (update)
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0db77a99b3662488",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+<<<<<<< HEAD
+                "file": "1.Project/쌍용교육센터/Month5/week4/05-24.md",
+=======
+                "file": "1.Project/쌍용교육센터/Month6/week1/06-05.md",
+>>>>>>> 6f4e3a5 (update)
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ede8d0f7442bfd0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "10f4f297c32786a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+<<<<<<< HEAD
+                "file": "1.Project/쌍용교육센터/Month5/week4/05-24.md"
+=======
+                "file": "1.Project/쌍용교육센터/Month6/week1/06-05.md"
+>>>>>>> 6f4e3a5 (update)
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 200
+=======
+    "width": 200,
+    "collapsed": true
+>>>>>>> 6f4e3a5 (update)
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+<<<<<<< HEAD
+  "active": "9f4c0b5fc6dacb93",
+  "lastOpenFiles": [
+    "0.setting/Excalidraw/Drawing 2024-05-30 14.55.58.excalidraw.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-31.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-24.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-23.md",
+=======
+  "active": "960b76b14388aca9",
+  "lastOpenFiles": [
+    "1.Project/쌍용교육센터/Month6/week1/06-04.md",
+    "1.Project/쌍용교육센터/Month6/week1/06-05.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-24.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-31.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-28.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-29.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-27.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-21.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-22.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-23.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-30.md",
+    "1.Project/쌍용교육센터/Month6/week1/06-03.md",
+    "0.setting/Excalidraw/Drawing 2024-05-30 14.55.58.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-06-03 14.27.22.excalidraw.md",
+    "1.Project/쌍용교육센터/Month6/week1",
+    "1.Project/쌍용교육센터/Month6/무제 파일.md",
+    "1.Project/쌍용교육센터/Month6",
+    "0.setting/Excalidraw/Drawing 2024-05-31 11.08.53.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-05-31 09.52.43.excalidraw.md",
+>>>>>>> 6f4e3a5 (update)
+    "4.Archive/무제 파일.md",
+    "3.Resource/무제 파일.md",
+    "2.Area/무제 파일.md",
+    "무제 폴더",
+<<<<<<< HEAD
+    "0.setting/Excalidraw/Drawing 2024-05-31 09.52.43.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-05-31 11.08.53.excalidraw.md",
+=======
+>>>>>>> 6f4e3a5 (update)
+    "0.setting/12.png",
+    "0.setting/Excalidraw/Drawing 2024-05-27 18.17.28.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-05-23 12.33.10.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-05-23 10.34.27.excalidraw.md",
+    "0.setting/Excalidraw/ajex 통신방식.md",
+    "0.setting/Excalidraw/웹서비스 동작방식.md",
+<<<<<<< HEAD
+    "1.Project/쌍용교육센터/Month5/week4/05-21.md",
+    "0.setting/Excalidraw/Drawing 2024-05-31 09.45.07.excalidraw.excalidraw",
+    "1.Project/쌍용교육센터/Month5/week5/05-30.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-29.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-28.md",
+    "1.Project/쌍용교육센터/Month5/week5/05-27.md",
+    "1.Project/쌍용교육센터/Month5/week4/05-22.md",
+    "0.setting/Excalidraw/Drawing 2024-05-29 18.32.17.excalidraw.md",
+    "2024-05-30.md",
+    "1.Project/쌍용교육센터/Month5",
+    "1.Project/쌍용교육센터/Month5/week5",
+    "1.Project/쌍용교육센터/무제 파일.md",
+=======
+    "0.setting/Excalidraw/Drawing 2024-05-31 09.45.07.excalidraw.excalidraw",
+    "0.setting/Excalidraw/Drawing 2024-05-29 18.32.17.excalidraw.md",
+    "1.Project/쌍용교육센터/Month5",
+    "1.Project/쌍용교육센터/Month5/week5",
+>>>>>>> 6f4e3a5 (update)
+    "1.Project/쌍용교육센터/Month5/week4",
+    "0.setting/옵시디언 꾸미기.pdf",
+    "0.setting/옵시디언 꾸미기.pdf",
+    "4.Archive",
+<<<<<<< HEAD
+    "3.Resource",
+    "2.Area",
+    "0.setting/Excalidraw/Drawing 2024-05-27 18.17.05.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-05-27 18.16.19.excalidraw.md",
+    "0.setting/Excalidraw/Drawing 2024-05-27 18.16.17.excalidraw.md",
+=======
+>>>>>>> 6f4e3a5 (update)
+    "Pasted image 20240523090626.png",
+    "Pasted image 20240523090613.png",
+    "Untitled/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
