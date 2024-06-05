@@ -1,15 +1,9 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-<<<<<<< HEAD
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-=======
-  "autoSaveInterval": 5,
-  "autoPushInterval": 5,
-  "autoPullInterval": 5,
->>>>>>> 6f4e3a5 (update)
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -24,20 +18,12 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-<<<<<<< HEAD
   "differentIntervalCommitAndPush": false,
-=======
-  "differentIntervalCommitAndPush": true,
->>>>>>> 6f4e3a5 (update)
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
-<<<<<<< HEAD
   "setLastSaveToLastCommit": false,
-=======
-  "setLastSaveToLastCommit": true,
->>>>>>> 6f4e3a5 (update)
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
@@ -64,13 +50,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-<<<<<<< HEAD
     "gutterSpacingFallbackLength": 5
-=======
-    "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
->>>>>>> 6f4e3a5 (update)
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }
