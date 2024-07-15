@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/쌍용교육센터/Mounth7/week2/07-15.md",
+                "file": "1.Project/쌍용교육센터/Mounth7/week2/07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Project/쌍용교육센터/Mounth7/week2/07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.Project/쌍용교육센터/Mounth7/week2/07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.Project/쌍용교육센터/Mounth7/week2/07-12.md"
+              }
             }
           }
         ]
@@ -152,26 +155,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c4080f7093dbb3c9",
+  "active": "58e263dcb31b38cc",
   "lastOpenFiles": [
+    "1.Project/쌍용교육센터/Mounth7/week2/07-11.md",
+    "1.Project/쌍용교육센터/Mounth7/week2/07-12.md",
+    "0.setting/첨부파일/Pasted image 20240712165410.png",
+    "0.setting/첨부파일/Pasted image 20240712120957.png",
+    "0.setting/첨부파일/Pasted Image 20240617152736_212.png",
+    "3.Resource/무제 파일.md",
     "1.Project/쌍용교육센터/Mounth7/week2/07-15.md",
     "1.Project/쌍용교육센터/Month6/week2/06-10.md",
-    "1.Project/쌍용교육센터/Mounth7/week2/07-12.md",
     "1.Project/쌍용교육센터/Month6/week2/06-11.md",
     "1.Project/쌍용교육센터/Mounth7/resource/Drawing 2024-07-11 09.56.37.excalidraw.md",
     "1.Project/쌍용교육센터/Mounth7/resource/Drawing 2024-07-12 15.37.29.excalidraw.md",
-    "1.Project/쌍용교육센터/Mounth7/week2/07-11.md",
     "0.setting/Excalidraw/Ex_2차프로젝트_기능모음.md",
     "0.setting/Excalidraw/Drawing 2024-06-17 15.26.34.excalidraw.md",
     "1.Project/쌍용교육센터/Mounth7/resource",
     "0.setting/Excalidraw/Drawing 2024-05-23 12.33.10.excalidraw.md",
     "0.setting/Excalidraw/Drawing 2024-05-23 10.34.27.excalidraw.md",
-    "0.setting/첨부파일/Pasted image 20240712165410.png",
     "0.setting/Excalidraw/Drawing 2024-05-31 09.52.43.excalidraw.md",
     "0.setting/Excalidraw/Drawing 2024-06-03 14.27.22.excalidraw.md",
     "0.setting/Excalidraw/Drawing 2024-05-31 09.45.07.excalidraw.excalidraw",
     "0.setting/Excalidraw/웹서비스 동작방식.md",
-    "0.setting/첨부파일/Pasted image 20240712120957.png",
     "0.setting/첨부파일/Pasted image 20240712120904.png",
     "0.setting/첨부파일/Pasted image 20240712120817.png",
     "0.setting/첨부파일/Pasted image 20240712120729.png",
@@ -189,8 +194,6 @@
     "1.Project/쌍용교육센터/Month5/week5/05-30.md",
     "1.Project/쌍용교육센터/Month5/week5/05-31.md",
     "1.Project/쌍용교육센터/Month6/week1/06-04.md",
-    "1.Project/쌍용교육센터/Month6/week1/06-03.md",
-    "0.setting/12.png",
     "0.setting/옵시디언 꾸미기.pdf",
     "1.Project/쌍용교육센터/Mounth7/week2",
     "1.Project/쌍용교육센터/Mounth7",
